@@ -23,7 +23,7 @@ module.exports = Object.freeze({
   },
     COMMANDS_USE_BOT_NAME: {
       ENABLED: false,  // If true, all commands except '/list' has to have the bot username after the command.
-      NAME: "@Trollmusicbot" //Enter your Bot Username here if above is set to true.
+      NAME: "@gdrivemirrobot" //Enter your Bot Username here if above is set to true.
     }
 });
 
